@@ -5,6 +5,15 @@ Eddy current brakes are an alternative technology to friction brakes that use pr
 
 ## Results
 
+### Changing Initial Angular Velocity
+| Angular Velocity vs. Time | Torque vs. Time |
+|:--:|:--:|
+| ![](docs/figures/change_omega.png) | ![](docs/figures/change_omega_t.png) |
+
+### Changing Resistance
+| Angular Velocity vs. Time | Torque vs. Time |
+|:--:|:--:|
+| ![](docs/figures/change_R1.png) | ![](docs/figures/change_R1_t.png) |
 
 ## Layout
 ```
